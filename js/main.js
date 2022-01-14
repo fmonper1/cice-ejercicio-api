@@ -25,3 +25,4 @@ const pedirUsuarioYMostrarEnDom = async () => {
 };
 
 pedirUsuarioYMostrarEnDom();
+pedirUsuarioYMostrarEnDom();
